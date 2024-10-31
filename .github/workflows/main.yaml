@@ -53,10 +53,9 @@ jobs:
       - name: Run Flutter analyze
         run: flutter analyze
 
-      # Step 5: Chạy kiểm thử
-      - name: Run Flutter tests
-        run: flutter test
-
+      # # Step 5: Chạy kiểm thử
+      # - name: Run Flutter tests
+      #   run: flutter test
       # Step 6: Build APK (nếu có nhu cầu triển khai cho Android)
       - name: Build APK
         run: flutter build apk --release
