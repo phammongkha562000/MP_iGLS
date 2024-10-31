@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38574376873",
+    "project_id": "iglsnoti",
+    "storage_bucket": "iglsnoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38574376873:android:4996ea35b2b6a60cd826b8",
+        "android_client_info": {
+          "package_name": "com.mpl.mpigls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38574376873-ppfjf30tdc67gdlij99s8a97ukf6h17o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEMg3CBeybM3iYfDv15Cpp85CvWHPV-nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38574376873-ppfjf30tdc67gdlij99s8a97ukf6h17o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
